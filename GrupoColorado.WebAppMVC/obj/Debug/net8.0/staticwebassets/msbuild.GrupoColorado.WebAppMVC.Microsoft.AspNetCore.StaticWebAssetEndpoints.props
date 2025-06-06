@@ -39,14 +39,14 @@
     <StaticWebAssetEndpoint Include="_content/GrupoColorado.WebAppMVC/js/cliente.js">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\cliente.js'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-w5tR7hC6es4/B1Pf21GrnCjkGESeWO1u0vbMfDH7Dy0="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"77"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022w5tR7hC6es4/B1Pf21GrnCjkGESeWO1u0vbMfDH7Dy0=\u0022"},{"Name":"Last-Modified","Value":"Fri, 06 Jun 2025 19:31:41 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-PdvIrhKD0rUt52PYid51ETaA9UKq2BOh3F6R66cfEbU="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"364"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022PdvIrhKD0rUt52PYid51ETaA9UKq2BOh3F6R66cfEbU=\u0022"},{"Name":"Last-Modified","Value":"Fri, 06 Jun 2025 20:14:00 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/GrupoColorado.WebAppMVC/js/cliente.zklervumky.js">
+    <StaticWebAssetEndpoint Include="_content/GrupoColorado.WebAppMVC/js/cliente.xj7gdl7pnz.js">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\cliente.js'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"zklervumky"},{"Name":"integrity","Value":"sha256-w5tR7hC6es4/B1Pf21GrnCjkGESeWO1u0vbMfDH7Dy0="},{"Name":"label","Value":"_content/GrupoColorado.WebAppMVC/js/cliente.js"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"77"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022w5tR7hC6es4/B1Pf21GrnCjkGESeWO1u0vbMfDH7Dy0=\u0022"},{"Name":"Last-Modified","Value":"Fri, 06 Jun 2025 19:31:41 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"xj7gdl7pnz"},{"Name":"integrity","Value":"sha256-PdvIrhKD0rUt52PYid51ETaA9UKq2BOh3F6R66cfEbU="},{"Name":"label","Value":"_content/GrupoColorado.WebAppMVC/js/cliente.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"364"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022PdvIrhKD0rUt52PYid51ETaA9UKq2BOh3F6R66cfEbU=\u0022"},{"Name":"Last-Modified","Value":"Fri, 06 Jun 2025 20:14:00 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/GrupoColorado.WebAppMVC/js/site.js">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\site.js'))</AssetFile>

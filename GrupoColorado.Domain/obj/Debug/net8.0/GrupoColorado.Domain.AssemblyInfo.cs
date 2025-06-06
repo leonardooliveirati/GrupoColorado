@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GrupoColorado.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6129e39759369c00ca8178972a65338599bb595c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fc583b8c9735691d382bfd6c340d282d05d544e9")]
 [assembly: System.Reflection.AssemblyProductAttribute("GrupoColorado.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GrupoColorado.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

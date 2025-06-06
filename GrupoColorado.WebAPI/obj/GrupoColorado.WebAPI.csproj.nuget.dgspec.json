@@ -55,6 +55,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[14.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -172,6 +178,9 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
+              "C:\\Users\\User\\Documents\\GitHub\\GrupoColorado\\GrupoColorado.Application\\GrupoColorado.Application.csproj": {
+                "projectPath": "C:\\Users\\User\\Documents\\GitHub\\GrupoColorado\\GrupoColorado.Application\\GrupoColorado.Application.csproj"
+              },
               "C:\\Users\\User\\Documents\\GitHub\\GrupoColorado\\GrupoColorado.Domain\\GrupoColorado.Domain.csproj": {
                 "projectPath": "C:\\Users\\User\\Documents\\GitHub\\GrupoColorado\\GrupoColorado.Domain\\GrupoColorado.Domain.csproj"
               }
@@ -193,6 +202,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.5, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -271,6 +286,18 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[14.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[9.0.5, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.6.2, )"

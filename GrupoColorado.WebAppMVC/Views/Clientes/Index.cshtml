@@ -1,1 +1,17 @@
-// Index.cshtml - Conteúdo gerado automaticamente para estrutura da solução
+@{
+    ViewData["Title"] = "Clientes";
+}
+<h1>Clientes</h1>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Código</th>
+            <th>Razão Social</th>
+        </tr>
+    </thead>
+    <tbody id="tbodyClientes"></tbody>
+</table>
+
+@section Scripts {
+    <script src="~/js/cliente.js"></script>
+}

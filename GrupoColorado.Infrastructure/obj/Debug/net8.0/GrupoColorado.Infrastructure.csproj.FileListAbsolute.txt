@@ -10,3 +10,9 @@ C:\Users\User\Documents\GitHub\GrupoColorado\GrupoColorado.Infrastructure\obj\De
 C:\Users\User\Documents\GitHub\GrupoColorado\GrupoColorado.Infrastructure\obj\Debug\net8.0\refint\GrupoColorado.Infrastructure.dll
 C:\Users\User\Documents\GitHub\GrupoColorado\GrupoColorado.Infrastructure\obj\Debug\net8.0\GrupoColorado.Infrastructure.pdb
 C:\Users\User\Documents\GitHub\GrupoColorado\GrupoColorado.Infrastructure\obj\Debug\net8.0\ref\GrupoColorado.Infrastructure.dll
+C:\Users\User\Documents\GitHub\GrupoColorado\GrupoColorado.Infrastructure\bin\Debug\net8.0\GrupoColorado.Application.dll
+C:\Users\User\Documents\GitHub\GrupoColorado\GrupoColorado.Infrastructure\bin\Debug\net8.0\GrupoColorado.Domain.dll
+C:\Users\User\Documents\GitHub\GrupoColorado\GrupoColorado.Infrastructure\bin\Debug\net8.0\GrupoColorado.Application.pdb
+C:\Users\User\Documents\GitHub\GrupoColorado\GrupoColorado.Infrastructure\bin\Debug\net8.0\GrupoColorado.Domain.pdb
+C:\Users\User\Documents\GitHub\GrupoColorado\GrupoColorado.Infrastructure\obj\Debug\net8.0\GrupoColorado.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\GrupoColorado\GrupoColorado.Infrastructure\obj\Debug\net8.0\GrupoCol.4C4F5A0A.Up2Date
