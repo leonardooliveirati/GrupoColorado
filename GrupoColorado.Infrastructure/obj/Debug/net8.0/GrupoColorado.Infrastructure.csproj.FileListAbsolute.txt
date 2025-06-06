@@ -1,0 +1,12 @@
+C:\Users\User\Documents\GitHub\GrupoColorado\GrupoColorado.Infrastructure\bin\Debug\net8.0\GrupoColorado.Infrastructure.deps.json
+C:\Users\User\Documents\GitHub\GrupoColorado\GrupoColorado.Infrastructure\bin\Debug\net8.0\GrupoColorado.Infrastructure.dll
+C:\Users\User\Documents\GitHub\GrupoColorado\GrupoColorado.Infrastructure\bin\Debug\net8.0\GrupoColorado.Infrastructure.pdb
+C:\Users\User\Documents\GitHub\GrupoColorado\GrupoColorado.Infrastructure\obj\Debug\net8.0\GrupoColorado.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\GrupoColorado\GrupoColorado.Infrastructure\obj\Debug\net8.0\GrupoColorado.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\GrupoColorado\GrupoColorado.Infrastructure\obj\Debug\net8.0\GrupoColorado.Infrastructure.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\GrupoColorado\GrupoColorado.Infrastructure\obj\Debug\net8.0\GrupoColorado.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\GrupoColorado\GrupoColorado.Infrastructure\obj\Debug\net8.0\GrupoColorado.Infrastructure.sourcelink.json
+C:\Users\User\Documents\GitHub\GrupoColorado\GrupoColorado.Infrastructure\obj\Debug\net8.0\GrupoColorado.Infrastructure.dll
+C:\Users\User\Documents\GitHub\GrupoColorado\GrupoColorado.Infrastructure\obj\Debug\net8.0\refint\GrupoColorado.Infrastructure.dll
+C:\Users\User\Documents\GitHub\GrupoColorado\GrupoColorado.Infrastructure\obj\Debug\net8.0\GrupoColorado.Infrastructure.pdb
+C:\Users\User\Documents\GitHub\GrupoColorado\GrupoColorado.Infrastructure\obj\Debug\net8.0\ref\GrupoColorado.Infrastructure.dll

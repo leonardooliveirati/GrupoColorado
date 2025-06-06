@@ -1,0 +1,12 @@
+C:\Users\User\Documents\GitHub\GrupoColorado\GrupoColorado.Domain\bin\Debug\net8.0\GrupoColorado.Domain.deps.json
+C:\Users\User\Documents\GitHub\GrupoColorado\GrupoColorado.Domain\bin\Debug\net8.0\GrupoColorado.Domain.dll
+C:\Users\User\Documents\GitHub\GrupoColorado\GrupoColorado.Domain\bin\Debug\net8.0\GrupoColorado.Domain.pdb
+C:\Users\User\Documents\GitHub\GrupoColorado\GrupoColorado.Domain\obj\Debug\net8.0\GrupoColorado.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\GrupoColorado\GrupoColorado.Domain\obj\Debug\net8.0\GrupoColorado.Domain.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\GrupoColorado\GrupoColorado.Domain\obj\Debug\net8.0\GrupoColorado.Domain.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\GrupoColorado\GrupoColorado.Domain\obj\Debug\net8.0\GrupoColorado.Domain.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\GrupoColorado\GrupoColorado.Domain\obj\Debug\net8.0\GrupoColorado.Domain.sourcelink.json
+C:\Users\User\Documents\GitHub\GrupoColorado\GrupoColorado.Domain\obj\Debug\net8.0\GrupoColorado.Domain.dll
+C:\Users\User\Documents\GitHub\GrupoColorado\GrupoColorado.Domain\obj\Debug\net8.0\refint\GrupoColorado.Domain.dll
+C:\Users\User\Documents\GitHub\GrupoColorado\GrupoColorado.Domain\obj\Debug\net8.0\GrupoColorado.Domain.pdb
+C:\Users\User\Documents\GitHub\GrupoColorado\GrupoColorado.Domain\obj\Debug\net8.0\ref\GrupoColorado.Domain.dll
