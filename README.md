@@ -29,7 +29,7 @@ Este repositório contém a implementação do desafio proposto pela Grupo Color
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/leonardooliveirati/GrupoColorado.Clientes.git
+   git clone https://github.com/leonardooliveirati/GrupoColorado.git
    ```
 
 2. Restaure os pacotes:
