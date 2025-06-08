@@ -1,6 +1,6 @@
 # GrupoColorado# Grupo Colorado - Desafio Desenvolvedor Fullstack
 
-Este repositório contém a implementação do desafio proposto pela Grupo Colorado, utilizando a stack ASP.NET Core 6 com MVC, Web API, arquitetura limpa e consumo via jQuery.
+Este repositório contém a implementação do desafio proposto pela Grupo Colorado, utilizando a stack ASP.NET Core 8 com MVC, Web API, arquitetura limpa e consumo via jQuery.
 
 ---
 
@@ -29,7 +29,7 @@ Este repositório contém a implementação do desafio proposto pela Grupo Color
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seuusuario/GrupoColorado.Clientes.git
+   git clone https://github.com/leonardooliveirati/GrupoColorado.Clientes.git
    ```
 
 2. Restaure os pacotes:

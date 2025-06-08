@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "9O7zWruno4y873tyOjmjQ00tXkGeO+ggrSt3wYjz6/g=",
+  "Hash": "Xv8/dwPACDCZoLynB+TcFqpFatySZW0B3ACxKpuwLAg=",
   "Source": "GrupoColorado.WebAppMVC",
   "BasePath": "_content/GrupoColorado.WebAppMVC",
   "Mode": "Default",
@@ -73,11 +73,32 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "c2tiyv64ts",
-      "Integrity": "pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0=",
+      "Fingerprint": "l3f2z4l4u0",
+      "Integrity": "8ZuwIztuv+oyEFXOJSMHd7xwp/ByB3FjBI3ZlvGf7Pg=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\GrupoColorado\\GrupoColorado.WebAppMVC\\wwwroot\\css\\site.enterprise.css",
+      "SourceId": "GrupoColorado.WebAppMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\GrupoColorado\\GrupoColorado.WebAppMVC\\wwwroot\\",
+      "BasePath": "_content/GrupoColorado.WebAppMVC",
+      "RelativePath": "css/site.enterprise#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "wwoaqoot9g",
+      "Integrity": "YOleBJ4vI3OQFECAEVbLv8fUpivAYn3GSzEYFY3ZXgU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\site.enterprise.css"
     },
     {
       "Identity": "C:\\Users\\User\\Documents\\GitHub\\GrupoColorado\\GrupoColorado.WebAppMVC\\wwwroot\\favicon.ico",
@@ -115,8 +136,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "xj7gdl7pnz",
-      "Integrity": "PdvIrhKD0rUt52PYid51ETaA9UKq2BOh3F6R66cfEbU=",
+      "Fingerprint": "5ox9a8mvfw",
+      "Integrity": "tZyAEjFT4iwdBtQsONPFkf5Z4K1fuVpK1bayXoPzfH0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\cliente.js"
@@ -1342,51 +1363,6 @@
   ],
   "Endpoints": [
     {
-      "Route": "css/site.c2tiyv64ts.css",
-      "AssetFile": "C:\\Users\\User\\Documents\\GitHub\\GrupoColorado\\GrupoColorado.WebAppMVC\\wwwroot\\css\\site.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "362"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 06 Jun 2025 13:56:06 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "c2tiyv64ts"
-        },
-        {
-          "Name": "label",
-          "Value": "css/site.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0="
-        }
-      ]
-    },
-    {
       "Route": "css/site.css",
       "AssetFile": "C:\\Users\\User\\Documents\\GitHub\\GrupoColorado\\GrupoColorado.WebAppMVC\\wwwroot\\css\\site.css",
       "Selectors": [],
@@ -1397,7 +1373,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "362"
+          "Value": "2081"
         },
         {
           "Name": "Content-Type",
@@ -1405,11 +1381,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0=\""
+          "Value": "\"8ZuwIztuv+oyEFXOJSMHd7xwp/ByB3FjBI3ZlvGf7Pg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 06 Jun 2025 13:56:06 GMT"
+          "Value": "Sun, 08 Jun 2025 17:36:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1419,7 +1395,134 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0="
+          "Value": "sha256-8ZuwIztuv+oyEFXOJSMHd7xwp/ByB3FjBI3ZlvGf7Pg="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.enterprise.css",
+      "AssetFile": "C:\\Users\\User\\Documents\\GitHub\\GrupoColorado\\GrupoColorado.WebAppMVC\\wwwroot\\css\\site.enterprise.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1883"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YOleBJ4vI3OQFECAEVbLv8fUpivAYn3GSzEYFY3ZXgU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Jun 2025 17:34:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-YOleBJ4vI3OQFECAEVbLv8fUpivAYn3GSzEYFY3ZXgU="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.enterprise.wwoaqoot9g.css",
+      "AssetFile": "C:\\Users\\User\\Documents\\GitHub\\GrupoColorado\\GrupoColorado.WebAppMVC\\wwwroot\\css\\site.enterprise.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1883"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YOleBJ4vI3OQFECAEVbLv8fUpivAYn3GSzEYFY3ZXgU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Jun 2025 17:34:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wwoaqoot9g"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.enterprise.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-YOleBJ4vI3OQFECAEVbLv8fUpivAYn3GSzEYFY3ZXgU="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.l3f2z4l4u0.css",
+      "AssetFile": "C:\\Users\\User\\Documents\\GitHub\\GrupoColorado\\GrupoColorado.WebAppMVC\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2081"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8ZuwIztuv+oyEFXOJSMHd7xwp/ByB3FjBI3ZlvGf7Pg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Jun 2025 17:36:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "l3f2z4l4u0"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8ZuwIztuv+oyEFXOJSMHd7xwp/ByB3FjBI3ZlvGf7Pg="
         }
       ]
     },
@@ -1670,6 +1773,51 @@
       ]
     },
     {
+      "Route": "js/cliente.5ox9a8mvfw.js",
+      "AssetFile": "C:\\Users\\User\\Documents\\GitHub\\GrupoColorado\\GrupoColorado.WebAppMVC\\wwwroot\\js\\cliente.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5241"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tZyAEjFT4iwdBtQsONPFkf5Z4K1fuVpK1bayXoPzfH0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Jun 2025 17:14:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5ox9a8mvfw"
+        },
+        {
+          "Name": "label",
+          "Value": "js/cliente.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-tZyAEjFT4iwdBtQsONPFkf5Z4K1fuVpK1bayXoPzfH0="
+        }
+      ]
+    },
+    {
       "Route": "js/cliente.js",
       "AssetFile": "C:\\Users\\User\\Documents\\GitHub\\GrupoColorado\\GrupoColorado.WebAppMVC\\wwwroot\\js\\cliente.js",
       "Selectors": [],
@@ -1680,7 +1828,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "364"
+          "Value": "5241"
         },
         {
           "Name": "Content-Type",
@@ -1688,11 +1836,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"PdvIrhKD0rUt52PYid51ETaA9UKq2BOh3F6R66cfEbU=\""
+          "Value": "\"tZyAEjFT4iwdBtQsONPFkf5Z4K1fuVpK1bayXoPzfH0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 06 Jun 2025 20:14:00 GMT"
+          "Value": "Sun, 08 Jun 2025 17:14:24 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1702,52 +1850,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-PdvIrhKD0rUt52PYid51ETaA9UKq2BOh3F6R66cfEbU="
-        }
-      ]
-    },
-    {
-      "Route": "js/cliente.xj7gdl7pnz.js",
-      "AssetFile": "C:\\Users\\User\\Documents\\GitHub\\GrupoColorado\\GrupoColorado.WebAppMVC\\wwwroot\\js\\cliente.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "364"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"PdvIrhKD0rUt52PYid51ETaA9UKq2BOh3F6R66cfEbU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 06 Jun 2025 20:14:00 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "xj7gdl7pnz"
-        },
-        {
-          "Name": "label",
-          "Value": "js/cliente.js"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-PdvIrhKD0rUt52PYid51ETaA9UKq2BOh3F6R66cfEbU="
+          "Value": "sha256-tZyAEjFT4iwdBtQsONPFkf5Z4K1fuVpK1bayXoPzfH0="
         }
       ]
     },

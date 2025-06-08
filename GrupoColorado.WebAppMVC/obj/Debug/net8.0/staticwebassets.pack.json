@@ -9,6 +9,10 @@
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
+      "Id": "C:\\Users\\User\\Documents\\GitHub\\GrupoColorado\\GrupoColorado.WebAppMVC\\wwwroot\\css\\site.enterprise.css",
+      "PackagePath": "staticwebassets\\css\\site.enterprise.css"
+    },
+    {
       "Id": "C:\\Users\\User\\Documents\\GitHub\\GrupoColorado\\GrupoColorado.WebAppMVC\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },

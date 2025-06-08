@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "GrupoColorado.WebAPI\\GrupoColorado.WebAPI.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "GrupoColorado.WebAppMVC\\GrupoColorado.WebAppMVC.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

@@ -1,7 +1,10 @@
+using System.ComponentModel.DataAnnotations;
+
 namespace GrupoColorado.Domain.Entities
 {
     public class Cliente
     {
+        [Key]
         public int CodigoCliente { get; set; }
         public string RazaoSocial { get; set; }
         public string NomeFantasia { get; set; }

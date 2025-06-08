@@ -16,14 +16,24 @@ namespace GrupoColorado.WebAPI.Controllers
         }
 
         [HttpGet]
-        public async Task<IActionResult> Get() => Ok(await _clienteService.ListarClientesAsync());
+        public async Task<IActionResult> Get() =>
+            Ok(await _clienteService.ListarClientesAsync());
 
         [HttpGet("{id}")]
-        public async Task<IActionResult> Get(int id) => Ok(await _clienteService.ObterClienteAsync(id));
+        public async Task<IActionResult> Get(int id)
+        {
+            var cliente = await _clienteService.ObterClienteAsync(id);
+            if (cliente == null)
+                return NotFound();
+            return Ok(cliente);
+        }
 
         [HttpPost]
         public async Task<IActionResult> Post([FromBody] ClienteDto cliente)
         {
+            if (!ModelState.IsValid)
+                return BadRequest(ModelState);
+
             await _clienteService.CriarClienteAsync(cliente);
             return CreatedAtAction(nameof(Get), new { id = cliente.CodigoCliente }, cliente);
         }
@@ -31,7 +41,12 @@ namespace GrupoColorado.WebAPI.Controllers
         [HttpPut("{id}")]
         public async Task<IActionResult> Put(int id, [FromBody] ClienteDto cliente)
         {
-            if (id != cliente.CodigoCliente) return BadRequest();
+            if (id != cliente.CodigoCliente)
+                return BadRequest("Id não corresponde ao cliente enviado.");
+
+            if (!ModelState.IsValid)
+                return BadRequest(ModelState);
+
             await _clienteService.AtualizarClienteAsync(cliente);
             return NoContent();
         }

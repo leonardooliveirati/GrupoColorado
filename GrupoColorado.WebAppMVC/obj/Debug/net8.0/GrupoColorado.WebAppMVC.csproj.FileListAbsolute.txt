@@ -27,9 +27,9 @@ C:\Users\User\Documents\GitHub\GrupoColorado\GrupoColorado.WebAppMVC\obj\Debug\n
 C:\Users\User\Documents\GitHub\GrupoColorado\GrupoColorado.WebAppMVC\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.GrupoColorado.WebAppMVC.props
 C:\Users\User\Documents\GitHub\GrupoColorado\GrupoColorado.WebAppMVC\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.GrupoColorado.WebAppMVC.props
 C:\Users\User\Documents\GitHub\GrupoColorado\GrupoColorado.WebAppMVC\obj\Debug\net8.0\staticwebassets.pack.json
-C:\Users\User\Documents\GitHub\GrupoColorado\GrupoColorado.WebAppMVC\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Users\User\Documents\GitHub\GrupoColorado\GrupoColorado.WebAppMVC\obj\Debug\net8.0\GrupoColorado.WebAppMVC.dll
 C:\Users\User\Documents\GitHub\GrupoColorado\GrupoColorado.WebAppMVC\obj\Debug\net8.0\refint\GrupoColorado.WebAppMVC.dll
 C:\Users\User\Documents\GitHub\GrupoColorado\GrupoColorado.WebAppMVC\obj\Debug\net8.0\GrupoColorado.WebAppMVC.pdb
 C:\Users\User\Documents\GitHub\GrupoColorado\GrupoColorado.WebAppMVC\obj\Debug\net8.0\GrupoColorado.WebAppMVC.genruntimeconfig.cache
 C:\Users\User\Documents\GitHub\GrupoColorado\GrupoColorado.WebAppMVC\obj\Debug\net8.0\ref\GrupoColorado.WebAppMVC.dll
+C:\Users\User\Documents\GitHub\GrupoColorado\GrupoColorado.WebAppMVC\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

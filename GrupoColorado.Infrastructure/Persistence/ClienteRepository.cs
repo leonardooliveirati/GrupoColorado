@@ -32,9 +32,25 @@ namespace GrupoColorado.Infrastructure.Persistence
 
         public async Task AtualizarAsync(Cliente cliente)
         {
-            _context.Clientes.Update(cliente);
+            var clienteExistente = await _context.Clientes
+                .Include(c => c.Telefones)
+                .FirstOrDefaultAsync(c => c.CodigoCliente == cliente.CodigoCliente);
+
+            if (clienteExistente == null)
+                return;
+
+            // Atualiza os dados principais do cliente
+            _context.Entry(clienteExistente).CurrentValues.SetValues(cliente);
+
+            // Remove os telefones antigos
+            _context.Telefones.RemoveRange(clienteExistente.Telefones);
+
+            // Adiciona os telefones novos
+            clienteExistente.Telefones = cliente.Telefones;
+
             await _context.SaveChangesAsync();
         }
+
 
         public async Task DeletarAsync(int id)
         {

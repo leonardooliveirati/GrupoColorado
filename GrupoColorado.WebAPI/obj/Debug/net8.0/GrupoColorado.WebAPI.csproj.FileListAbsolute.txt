@@ -28,7 +28,6 @@ C:\Users\User\Documents\GitHub\GrupoColorado\GrupoColorado.WebAPI\obj\Debug\net8
 C:\Users\User\Documents\GitHub\GrupoColorado\GrupoColorado.WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.GrupoColorado.WebAPI.props
 C:\Users\User\Documents\GitHub\GrupoColorado\GrupoColorado.WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.GrupoColorado.WebAPI.props
 C:\Users\User\Documents\GitHub\GrupoColorado\GrupoColorado.WebAPI\obj\Debug\net8.0\staticwebassets.pack.json
-C:\Users\User\Documents\GitHub\GrupoColorado\GrupoColorado.WebAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Users\User\Documents\GitHub\GrupoColorado\GrupoColorado.WebAPI\obj\Debug\net8.0\GrupoCol.0D2CBCD1.Up2Date
 C:\Users\User\Documents\GitHub\GrupoColorado\GrupoColorado.WebAPI\obj\Debug\net8.0\GrupoColorado.WebAPI.dll
 C:\Users\User\Documents\GitHub\GrupoColorado\GrupoColorado.WebAPI\obj\Debug\net8.0\refint\GrupoColorado.WebAPI.dll
@@ -54,3 +53,4 @@ C:\Users\User\Documents\GitHub\GrupoColorado\GrupoColorado.WebAPI\bin\Debug\net8
 C:\Users\User\Documents\GitHub\GrupoColorado\GrupoColorado.WebAPI\bin\Debug\net8.0\GrupoColorado.Application.pdb
 C:\Users\User\Documents\GitHub\GrupoColorado\GrupoColorado.WebAPI\bin\Debug\net8.0\GrupoColorado.Domain.pdb
 C:\Users\User\Documents\GitHub\GrupoColorado\GrupoColorado.WebAPI\bin\Debug\net8.0\GrupoColorado.Infrastructure.pdb
+C:\Users\User\Documents\GitHub\GrupoColorado\GrupoColorado.WebAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
