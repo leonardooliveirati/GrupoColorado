@@ -1,0 +1,16 @@
+C:\Users\User\Documents\GitHub\GrupoColorado\GrupoColorado.Application\bin\Debug\net8.0\GrupoColorado.Application.deps.json
+C:\Users\User\Documents\GitHub\GrupoColorado\GrupoColorado.Application\bin\Debug\net8.0\GrupoColorado.Application.dll
+C:\Users\User\Documents\GitHub\GrupoColorado\GrupoColorado.Application\bin\Debug\net8.0\GrupoColorado.Application.pdb
+C:\Users\User\Documents\GitHub\GrupoColorado\GrupoColorado.Application\obj\Debug\net8.0\GrupoColorado.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\GrupoColorado\GrupoColorado.Application\obj\Debug\net8.0\GrupoColorado.Application.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\GrupoColorado\GrupoColorado.Application\obj\Debug\net8.0\GrupoColorado.Application.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\GrupoColorado\GrupoColorado.Application\obj\Debug\net8.0\GrupoColorado.Application.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\GrupoColorado\GrupoColorado.Application\obj\Debug\net8.0\GrupoColorado.Application.sourcelink.json
+C:\Users\User\Documents\GitHub\GrupoColorado\GrupoColorado.Application\obj\Debug\net8.0\GrupoColorado.Application.dll
+C:\Users\User\Documents\GitHub\GrupoColorado\GrupoColorado.Application\obj\Debug\net8.0\refint\GrupoColorado.Application.dll
+C:\Users\User\Documents\GitHub\GrupoColorado\GrupoColorado.Application\obj\Debug\net8.0\GrupoColorado.Application.pdb
+C:\Users\User\Documents\GitHub\GrupoColorado\GrupoColorado.Application\obj\Debug\net8.0\ref\GrupoColorado.Application.dll
+C:\Users\User\Documents\GitHub\GrupoColorado\GrupoColorado.Application\bin\Debug\net8.0\GrupoColorado.Domain.dll
+C:\Users\User\Documents\GitHub\GrupoColorado\GrupoColorado.Application\bin\Debug\net8.0\GrupoColorado.Domain.pdb
+C:\Users\User\Documents\GitHub\GrupoColorado\GrupoColorado.Application\obj\Debug\net8.0\GrupoColorado.Application.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\GrupoColorado\GrupoColorado.Application\obj\Debug\net8.0\GrupoCol.0FB4423A.Up2Date
