@@ -17,7 +17,7 @@ Este repositório contém a implementação do desafio proposto pela Grupo Color
 
 ## 🚀 Tecnologias Utilizadas
 
-- ASP.NET Core 6
+- ASP.NET Core 8
 - Entity Framework Core (InMemory)
 - AutoMapper
 - Swagger
